@@ -322,14 +322,25 @@ MAPE :  34.487391651053336
 # Comparision between all models
 
 MODEL 	           RMSE
+
 svd               1.0726046873826458
+
 knn_bsl_u         1.0726493739667242
+
 knn_bsl_m         1.072758832653683
+
 svdpp             1.0728491944183447
+
 bsl_algo          1.0730330260516174
+
 xgb_knn_bsl_mu    1.0753229281412784
+
 xgb_all_models    1.075480663561971
+
 first_algo        1.0761851474385373
+
 xgb_bsl           1.0763419061709816
+
 xgb_final         1.0763580984894978
+
 xgb_knn_bsl       1.0763602465199797
